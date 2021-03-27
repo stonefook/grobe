@@ -19,4 +19,4 @@ _____ _   _____  _  _____  _    ____
 | |___| |___| |/ ___ \| |/ ___ \|  _ <
 |_____|_____|_/_/   \_\_/_/   \_\_| \_\
 """)
-os.system ('xdg-open https://chat.whatsapp.com/Dl9LvQGzCn2AfqwenueJdv')
+os.system ('xdg-open https://chat.whatsapp.com/LUJGs6S0CafESrTSuhfTBa')
